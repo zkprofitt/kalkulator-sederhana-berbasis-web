@@ -7,7 +7,7 @@ terimakasih kepada chanel Programmer Handal yang sudah memberikan tutorialnya
 
 
 
-applikasi yang dibutuhkan:
+IDE:
 visual studio code
 
 server lokal:
